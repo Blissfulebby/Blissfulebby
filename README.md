@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agatha Onwudiwe</h1>
 
+![](https://komarev.com/ghpvc/?username=Blissfulebby&label=Profile%20Views&color=0e75b6&style=flat)
+
 <h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -9,6 +11,19 @@ Turning data into actionable insights through analytics, machine learning, and b
 ---
 
 ## 👩🏽‍💻 About Me
+
+## 📊 GitHub Statistics
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Blissfulebby&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blissfulebby&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blissfulebby&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 - 🔭 Currently building end-to-end Data Science and Machine Learning projects
 - 🌱 Currently learning **MLOps** and **AI Engineering**
@@ -59,6 +74,22 @@ https://github.com/Blissfulebby/end-to-end-car-price-prediction-aws
 ---
 
 ## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/agatha-onwudiwe-86b87215b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:agatha.onwudiwe@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://blissfulebby.github.io/AggiePortfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
+</p>
 
 📧 **Email:** agatha.onwudiwe@gmail.com
 
