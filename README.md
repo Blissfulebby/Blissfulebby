@@ -10,11 +10,11 @@ Turning data into actionable insights through analytics, machine learning, and b
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Blissfulebby&theme=tokyonight&hide_border=true"/>
@@ -33,7 +33,7 @@ Turning data into actionable insights through analytics, machine learning, and b
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,9 +48,9 @@ Turning data into actionable insights through analytics, machine learning, and b
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🚗 End-to-End Used Car Price Prediction
+###  End-to-End Used Car Price Prediction
 
 An end-to-end machine learning application that predicts the selling price of used vehicles using **Random Forest Regression**, deployed with **Streamlit** and hosted on **AWS EC2** during development.
 
@@ -59,7 +59,7 @@ https://github.com/Blissfulebby/end-to-end-car-price-prediction-aws
 
 ---
 
-## 📈 Core Skills
+##  Core Skills
 
 - 📊 Data Analysis
 - 🤖 Machine Learning
@@ -73,7 +73,7 @@ https://github.com/Blissfulebby/end-to-end-car-price-prediction-aws
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -91,11 +91,11 @@ https://github.com/Blissfulebby/end-to-end-car-price-prediction-aws
 
 </p>
 
-📧 **Email:** agatha.onwudiwe@gmail.com
+ **Email:** agatha.onwudiwe@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/agatha-onwudiwe-86b87215b
+ **LinkedIn:** https://www.linkedin.com/in/agatha-onwudiwe-86b87215b
 
-🌐 **Portfolio:** https://blissfulebby.github.io/AggiePortfolio
+ **Portfolio:** https://blissfulebby.github.io/AggiePortfolio
 
 ---
 
